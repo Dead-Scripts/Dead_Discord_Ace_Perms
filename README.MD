@@ -1,6 +1,5 @@
 ### Discord Ace Perms
-### Join my discord for any support needed
-### https://discord.gg/m39AUuSatU
+[![Developer Discord]](https://discord.gg/m39AUuSatU)
 
 ### Version
     1.0
